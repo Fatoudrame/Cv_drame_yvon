@@ -1,0 +1,54 @@
+.gauche{
+    border: 1px solid white;
+    width: 30%; background-color: gainsboro;
+}
+
+.droite{
+    border: 1px dashed blue;
+    width: 70%;
+}
+
+.droite h1{
+    background-color: blue;
+    color: white;
+    padding: 20px;
+    margin-top: 0;
+}
+
+
+.droite h2{
+    background-color: blue;
+    color: white;
+    padding: 10px;
+    margin-top: 0;
+}
+
+.droite .nom{
+    width: 60%;
+}
+
+.goto{
+    display: flex;
+    justify-content: center;
+}
+
+.autres h2{
+    background-color: blue;
+    color: white;
+    padding: 10px;
+    margin-top: 0;
+}
+
+.contact h2{
+    background-color: blue;
+    color: white;
+    padding: 10;
+    margin-top: 0;
+}
+
+.compétance h3{
+    background-color: blue;
+    color:white;
+    padding: 10px;
+    margin-top: 0;
+}

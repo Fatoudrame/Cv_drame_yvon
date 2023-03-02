@@ -1,0 +1,44 @@
+.border
+{
+    border: 1px solid #062574;
+    background-color: #062574;
+    color: white;
+}
+/********* class pour les couleurs de fond*******************/
+.bcb
+{
+background-color: #062574;
+}
+.bcw
+{
+    background-color: white;
+}
+
+.bcg
+{
+    background-color: #a1988f;
+}
+.bcbl{
+    background-color: black;
+}
+
+
+
+
+
+.container
+{
+    width: 900px;
+    overflow: scroll;
+    margin-left: auto;
+    margin-right: auto;
+   
+}
+
+#titre
+{
+    width: auto;
+    height: 88px;
+    margin-top: 0%;
+}
+
